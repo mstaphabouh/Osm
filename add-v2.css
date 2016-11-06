@@ -1,0 +1,19 @@
+.code {
+    border-left: 15px #ed4a3c solid;
+    background: #f9f3f2;
+    text-align: left;
+    padding: 5px 0 5px 15px;
+    font-size: 13px;
+    font-family: droid sans;
+    direction: ltr;
+    max-height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+strike {
+    background: #544948;
+    color: white;
+    padding: 0px 8px !important;
+    text-decoration: blink;
+    border-radius: 2px;
+}
