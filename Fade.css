@@ -1,4 +1,11 @@
-*/.animated {
+@charset "UTF-8";/*!
+Animate.css - http://daneden.me/animate
+Licensed under the MIT license - http://opensource.org/licenses/MIT
+// Codatey.blogspot.com (c) 2017
+
+Copyright (c) 2015 Daniel Eden
+*/
+.animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-fill-mode: both;
